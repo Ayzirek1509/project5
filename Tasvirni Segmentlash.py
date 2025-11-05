@@ -1,3 +1,4 @@
+# bu uzgarish 1-local repodan
 import cv2
 import numpy as np
 
